@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{18A655B2-DDB8-7BE0-32AC-CF9E9B7C7450}</ProjectGuid>
+    <ProjectGuid>{66CC79E1-57D9-2ABB-AE68-E9AC308BDCF1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>NaughtyAttributes.Editor</AssemblyName>
@@ -1019,7 +1019,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="NaughtyAttributes.Core.csproj">
-      <Project>{8909D20A-6D32-37BE-1D1A-C32400093C39}</Project>
+      <Project>{3237C8AB-9726-55E8-E688-ACA8CCCA0BB4}</Project>
       <Name>NaughtyAttributes.Core</Name>
     </ProjectReference>
   </ItemGroup>

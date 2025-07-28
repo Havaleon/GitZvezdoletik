@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{D1400612-511B-C473-6A24-674019E8063E}</ProjectGuid>
+    <ProjectGuid>{5A58C671-6E70-F280-3163-D1B7113390CC}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>AYellowpaper.SerializedCollections.Editor</AssemblyName>
@@ -1025,7 +1025,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="AYellowpaper.SerializedCollections.csproj">
-      <Project>{9587576E-7330-6A49-463E-6365C977EF7F}</Project>
+      <Project>{8E37C2D0-DC04-ECA7-CC56-F3FF6994B824}</Project>
       <Name>AYellowpaper.SerializedCollections</Name>
     </ProjectReference>
   </ItemGroup>

@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{9587576E-7330-6A49-463E-6365C977EF7F}</ProjectGuid>
+    <ProjectGuid>{8E37C2D0-DC04-ECA7-CC56-F3FF6994B824}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>AYellowpaper.SerializedCollections</AssemblyName>
