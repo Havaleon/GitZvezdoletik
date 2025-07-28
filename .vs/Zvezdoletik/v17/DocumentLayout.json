@@ -1,0 +1,812 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Zvezdoletik\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|c:\\users\\user\\zvezdoletik\\assets\\player\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\player\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|c:\\users\\user\\zvezdoletik\\assets\\prefabsobglvl\\obstacle\\magneticwindobg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabsobglvl\\obstacle\\magneticwindobg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|C:\\Users\\user\\Zvezdoletik\\assets\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|C:\\Users\\user\\Zvezdoletik\\assets\\prefabsobglvl\\interpolation_animation_obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabsobglvl\\interpolation_animation_obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|C:\\Users\\user\\Zvezdoletik\\assets\\prefabsobglvl\\obstacle\\spawners\\spawnmagneticwind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabsobglvl\\obstacle\\spawners\\spawnmagneticwind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|C:\\Users\\user\\Zvezdoletik\\assets\\prefabsobglvl\\obstacle\\spawners\\spawntorus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabsobglvl\\obstacle\\spawners\\spawntorus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|C:\\Users\\user\\Zvezdoletik\\assets\\prefabsobglvl\\obstacle\\spawners\\spawnlongobstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabsobglvl\\obstacle\\spawners\\spawnlongobstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|C:\\Users\\user\\Zvezdoletik\\assets\\prefabsobglvl\\obstacle\\torusobg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabsobglvl\\obstacle\\torusobg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|C:\\Users\\user\\Zvezdoletik\\assets\\lvlscripts\\lvl_tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\lvlscripts\\lvl_tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|C:\\Users\\user\\Zvezdoletik\\assets\\animation\\interpolation_animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\animation\\interpolation_animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|C:\\Users\\user\\Zvezdoletik\\assets\\animation\\animation_controler_v5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\animation\\animation_controler_v5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|C:\\Users\\user\\Zvezdoletik\\assets\\prefabsobglvl\\obstacle\\dataobstacl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabsobglvl\\obstacle\\dataobstacl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|C:\\Users\\user\\Zvezdoletik\\assets\\player\\dead_scr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\player\\dead_scr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|C:\\Users\\user\\Zvezdoletik\\assets\\awakescr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\awakescr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|C:\\Users\\user\\Zvezdoletik\\assets\\lvlscripts\\lvl_controler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\lvlscripts\\lvl_controler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|C:\\Users\\user\\Zvezdoletik\\assets\\prefabsobglvl\\lvlobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabsobglvl\\lvlobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|C:\\Users\\user\\Zvezdoletik\\assets\\prefabsobglvl\\obstacle\\spawners\\spawnasteroid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabsobglvl\\obstacle\\spawners\\spawnasteroid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|C:\\Users\\user\\Zvezdoletik\\assets\\prefabsobglvl\\bonuses\\spawners\\spawnshild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabsobglvl\\bonuses\\spawners\\spawnshild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|C:\\Users\\user\\Zvezdoletik\\assets\\prefabsobglvl\\bonuses\\spawners\\spawndeceleration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabsobglvl\\bonuses\\spawners\\spawndeceleration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|C:\\Users\\user\\Zvezdoletik\\assets\\prefabsobglvl\\bonuses\\spawners\\spawnmoney.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabsobglvl\\bonuses\\spawners\\spawnmoney.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|C:\\Users\\user\\Zvezdoletik\\assets\\prefabsobglvl\\bonuses\\spawners\\spawnspeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabsobglvl\\bonuses\\spawners\\spawnspeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|C:\\Users\\user\\Zvezdoletik\\assets\\prefabsobglvl\\bonuses\\spawners\\spawnshooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabsobglvl\\bonuses\\spawners\\spawnshooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|C:\\Users\\user\\Zvezdoletik\\assets\\ui\\reyardendgameprogres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\ui\\reyardendgameprogres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|C:\\Users\\user\\Zvezdoletik\\assets\\ui\\textcounteranimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\ui\\textcounteranimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|C:\\Users\\user\\Zvezdoletik\\assets\\ui\\windouprogresendgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\ui\\windouprogresendgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|C:\\Users\\user\\Zvezdoletik\\assets\\datacarrier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\datacarrier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|C:\\Users\\user\\Zvezdoletik\\assets\\ui\\endgame_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\ui\\endgame_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|C:\\Users\\user\\Zvezdoletik\\assets\\ui\\canvasescontroller\\canvascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\ui\\canvasescontroller\\canvascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|C:\\Users\\user\\Zvezdoletik\\assets\\ui\\canvasescontroller\\canvaselement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\ui\\canvasescontroller\\canvaselement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|C:\\Users\\user\\Zvezdoletik\\assets\\ui\\canvasescontroller\\canvasscr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\ui\\canvasescontroller\\canvasscr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|C:\\Users\\user\\Zvezdoletik\\assets\\ui\\updatetextscorr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\ui\\updatetextscorr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|C:\\Users\\user\\Zvezdoletik\\assets\\ui\\crystaltext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\ui\\crystaltext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|C:\\Users\\user\\Zvezdoletik\\assets\\player\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\player\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|C:\\Users\\user\\Zvezdoletik\\assets\\ui\\upgrade\\scripts\\formupgradecard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\ui\\upgrade\\scripts\\formupgradecard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|C:\\Users\\user\\Zvezdoletik\\assets\\savedata\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\savedata\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|C:\\Users\\user\\Zvezdoletik\\assets\\prefabsobglvl\\bonuses\\bonusobg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabsobglvl\\bonuses\\bonusobg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|C:\\Users\\user\\Zvezdoletik\\assets\\prefabsobglvl\\bonuses\\shildobg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabsobglvl\\bonuses\\shildobg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|C:\\Users\\user\\Zvezdoletik\\assets\\savedata\\save_tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\savedata\\save_tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|C:\\Users\\user\\Zvezdoletik\\assets\\player\\nextrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\player\\nextrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|C:\\Users\\user\\Zvezdoletik\\assets\\prefabsobglvl\\entyti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabsobglvl\\entyti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|C:\\Users\\user\\Zvezdoletik\\assets\\destroier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\destroier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|C:\\Users\\user\\Zvezdoletik\\assets\\ui\\record text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\ui\\record text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|C:\\Users\\user\\Zvezdoletik\\assets\\prefabsobglvl\\bonuses\\shootingobg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabsobglvl\\bonuses\\shootingobg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|C:\\Users\\user\\Zvezdoletik\\assets\\prefabsobglvl\\bonuses\\decelerationobg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabsobglvl\\bonuses\\decelerationobg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|C:\\Users\\user\\Zvezdoletik\\assets\\prefabsobglvl\\bonuses\\speedobg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabsobglvl\\bonuses\\speedobg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|C:\\Users\\user\\Zvezdoletik\\assets\\player\\shooting\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\player\\shooting\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|C:\\Users\\user\\Zvezdoletik\\assets\\player\\shooting\\shootingplayerpivot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\player\\shooting\\shootingplayerpivot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|C:\\Users\\user\\Zvezdoletik\\assets\\player\\shooting\\shootingplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB8E107-94EB-5ECE-98A4-393B134D4BC8}|Assembly-CSharp.csproj|solutionrelative:assets\\player\\shooting\\shootingplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Zvezdoletik\\Assets\\UIControler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\UIControler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 187,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\player\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\player\\CameraController.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\player\\CameraController.cs",
+              "RelativeToolTip": "Assets\\player\\CameraController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwC8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T07:47:20.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SpawnTorus.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\PrefabsObgLVL\\Obstacle\\Spawners\\SpawnTorus.cs",
+              "RelativeDocumentMoniker": "Assets\\PrefabsObgLVL\\Obstacle\\Spawners\\SpawnTorus.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\PrefabsObgLVL\\Obstacle\\Spawners\\SpawnTorus.cs",
+              "RelativeToolTip": "Assets\\PrefabsObgLVL\\Obstacle\\Spawners\\SpawnTorus.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowCAAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T07:41:15.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Animation_controler_V5.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\Animation\\Animation_controler_V5.cs",
+              "RelativeDocumentMoniker": "Assets\\Animation\\Animation_controler_V5.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\Animation\\Animation_controler_V5.cs",
+              "RelativeToolTip": "Assets\\Animation\\Animation_controler_V5.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAIwJwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T11:45:39.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataObstacl.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\PrefabsObgLVL\\Obstacle\\DataObstacl.cs",
+              "RelativeDocumentMoniker": "Assets\\PrefabsObgLVL\\Obstacle\\DataObstacl.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\PrefabsObgLVL\\Obstacle\\DataObstacl.cs",
+              "RelativeToolTip": "Assets\\PrefabsObgLVL\\Obstacle\\DataObstacl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T18:00:59.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "interpolation_animation.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\Animation\\interpolation_animation.cs",
+              "RelativeDocumentMoniker": "Assets\\Animation\\interpolation_animation.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\Animation\\interpolation_animation.cs",
+              "RelativeToolTip": "Assets\\Animation\\interpolation_animation.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwEcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T18:36:12.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LVLObjects.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\PrefabsObgLVL\\LVLObjects.cs",
+              "RelativeDocumentMoniker": "Assets\\PrefabsObgLVL\\LVLObjects.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\PrefabsObgLVL\\LVLObjects.cs",
+              "RelativeToolTip": "Assets\\PrefabsObgLVL\\LVLObjects.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T01:34:36.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SpawnAsteroid.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\PrefabsObgLVL\\Obstacle\\Spawners\\SpawnAsteroid.cs",
+              "RelativeDocumentMoniker": "Assets\\PrefabsObgLVL\\Obstacle\\Spawners\\SpawnAsteroid.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\PrefabsObgLVL\\Obstacle\\Spawners\\SpawnAsteroid.cs",
+              "RelativeToolTip": "Assets\\PrefabsObgLVL\\Obstacle\\Spawners\\SpawnAsteroid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T16:20:33.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SpawnDeceleration.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\PrefabsObgLVL\\Bonuses\\Spawners\\SpawnDeceleration.cs",
+              "RelativeDocumentMoniker": "Assets\\PrefabsObgLVL\\Bonuses\\Spawners\\SpawnDeceleration.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\PrefabsObgLVL\\Bonuses\\Spawners\\SpawnDeceleration.cs",
+              "RelativeToolTip": "Assets\\PrefabsObgLVL\\Bonuses\\Spawners\\SpawnDeceleration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T02:18:54.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SpawnSpeed.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\PrefabsObgLVL\\Bonuses\\Spawners\\SpawnSpeed.cs",
+              "RelativeDocumentMoniker": "Assets\\PrefabsObgLVL\\Bonuses\\Spawners\\SpawnSpeed.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\PrefabsObgLVL\\Bonuses\\Spawners\\SpawnSpeed.cs",
+              "RelativeToolTip": "Assets\\PrefabsObgLVL\\Bonuses\\Spawners\\SpawnSpeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T01:34:55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ReyardEndGameProgres.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\UI\\ReyardEndGameProgres.cs",
+              "RelativeDocumentMoniker": "Assets\\UI\\ReyardEndGameProgres.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\UI\\ReyardEndGameProgres.cs",
+              "RelativeToolTip": "Assets\\UI\\ReyardEndGameProgres.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwDIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:20:06.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SpawnMoney.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\PrefabsObgLVL\\Bonuses\\Spawners\\SpawnMoney.cs",
+              "RelativeDocumentMoniker": "Assets\\PrefabsObgLVL\\Bonuses\\Spawners\\SpawnMoney.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\PrefabsObgLVL\\Bonuses\\Spawners\\SpawnMoney.cs",
+              "RelativeToolTip": "Assets\\PrefabsObgLVL\\Bonuses\\Spawners\\SpawnMoney.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T18:31:20.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TextCounterAnimation.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\UI\\TextCounterAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\UI\\TextCounterAnimation.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\UI\\TextCounterAnimation.cs",
+              "RelativeToolTip": "Assets\\UI\\TextCounterAnimation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T02:47:26.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DataCarrier.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\DataCarrier.cs",
+              "RelativeDocumentMoniker": "Assets\\DataCarrier.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\DataCarrier.cs",
+              "RelativeToolTip": "Assets\\DataCarrier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T00:00:09.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CanvasController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\UI\\CanvasesController\\CanvasController.cs",
+              "RelativeDocumentMoniker": "Assets\\UI\\CanvasesController\\CanvasController.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\UI\\CanvasesController\\CanvasController.cs",
+              "RelativeToolTip": "Assets\\UI\\CanvasesController\\CanvasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T03:27:16.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FormUpgradeCard.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\UI\\Upgrade\\Scripts\\FormUpgradeCard.cs",
+              "RelativeDocumentMoniker": "Assets\\UI\\Upgrade\\Scripts\\FormUpgradeCard.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\UI\\Upgrade\\Scripts\\FormUpgradeCard.cs",
+              "RelativeToolTip": "Assets\\UI\\Upgrade\\Scripts\\FormUpgradeCard.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T04:09:02.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BonusObg.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\PrefabsObgLVL\\Bonuses\\BonusObg.cs",
+              "RelativeDocumentMoniker": "Assets\\PrefabsObgLVL\\Bonuses\\BonusObg.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\PrefabsObgLVL\\Bonuses\\BonusObg.cs",
+              "RelativeToolTip": "Assets\\PrefabsObgLVL\\Bonuses\\BonusObg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T05:38:11.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UpdateTextScorr.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\UI\\UpdateTextScorr.cs",
+              "RelativeDocumentMoniker": "Assets\\UI\\UpdateTextScorr.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\UI\\UpdateTextScorr.cs",
+              "RelativeToolTip": "Assets\\UI\\UpdateTextScorr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T23:49:53.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CrystalText.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\UI\\CrystalText.cs",
+              "RelativeDocumentMoniker": "Assets\\UI\\CrystalText.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\UI\\CrystalText.cs",
+              "RelativeToolTip": "Assets\\UI\\CrystalText.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T23:47:14.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CanvasScr.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\UI\\CanvasesController\\CanvasScr.cs",
+              "RelativeDocumentMoniker": "Assets\\UI\\CanvasesController\\CanvasScr.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\UI\\CanvasesController\\CanvasScr.cs",
+              "RelativeToolTip": "Assets\\UI\\CanvasesController\\CanvasScr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T03:27:21.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Save_Tools.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\SaveData\\Save_Tools.cs",
+              "RelativeDocumentMoniker": "Assets\\SaveData\\Save_Tools.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\SaveData\\Save_Tools.cs",
+              "RelativeToolTip": "Assets\\SaveData\\Save_Tools.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T04:29:40.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "NextRecord.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\player\\NextRecord.cs",
+              "RelativeDocumentMoniker": "Assets\\player\\NextRecord.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\player\\NextRecord.cs",
+              "RelativeToolTip": "Assets\\player\\NextRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T00:46:55.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "entyti.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\PrefabsObgLVL\\entyti.cs",
+              "RelativeDocumentMoniker": "Assets\\PrefabsObgLVL\\entyti.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\PrefabsObgLVL\\entyti.cs",
+              "RelativeToolTip": "Assets\\PrefabsObgLVL\\entyti.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T03:58:16.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ShootingPlayerPivot.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\player\\Shooting\\ShootingPlayerPivot.cs",
+              "RelativeDocumentMoniker": "Assets\\player\\Shooting\\ShootingPlayerPivot.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\player\\Shooting\\ShootingPlayerPivot.cs",
+              "RelativeToolTip": "Assets\\player\\Shooting\\ShootingPlayerPivot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T03:34:13.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "UIControler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\UIControler.cs",
+              "RelativeDocumentMoniker": "Assets\\UIControler.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\UIControler.cs",
+              "RelativeToolTip": "Assets\\UIControler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T05:35:58.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ShootingObg.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\PrefabsObgLVL\\Bonuses\\ShootingObg.cs",
+              "RelativeDocumentMoniker": "Assets\\PrefabsObgLVL\\Bonuses\\ShootingObg.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\PrefabsObgLVL\\Bonuses\\ShootingObg.cs",
+              "RelativeToolTip": "Assets\\PrefabsObgLVL\\Bonuses\\ShootingObg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T03:11:27.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ShootingPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\player\\Shooting\\ShootingPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\player\\Shooting\\ShootingPlayer.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\player\\Shooting\\ShootingPlayer.cs",
+              "RelativeToolTip": "Assets\\player\\Shooting\\ShootingPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T03:30:24.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Destroier.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\Destroier.cs",
+              "RelativeDocumentMoniker": "Assets\\Destroier.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\Destroier.cs",
+              "RelativeToolTip": "Assets\\Destroier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T11:55:49.74Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 213,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MagneticWindOBG.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\PrefabsObgLVL\\Obstacle\\MagneticWindOBG.cs",
+              "RelativeDocumentMoniker": "Assets\\PrefabsObgLVL\\Obstacle\\MagneticWindOBG.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\PrefabsObgLVL\\Obstacle\\MagneticWindOBG.cs",
+              "RelativeToolTip": "Assets\\PrefabsObgLVL\\Obstacle\\MagneticWindOBG.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T07:18:51.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SpawnMagneticWind.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\PrefabsObgLVL\\Obstacle\\Spawners\\SpawnMagneticWind.cs",
+              "RelativeDocumentMoniker": "Assets\\PrefabsObgLVL\\Obstacle\\Spawners\\SpawnMagneticWind.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\PrefabsObgLVL\\Obstacle\\Spawners\\SpawnMagneticWind.cs",
+              "RelativeToolTip": "Assets\\PrefabsObgLVL\\Obstacle\\Spawners\\SpawnMagneticWind.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T07:13:51.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "player.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\player\\player.cs",
+              "RelativeDocumentMoniker": "Assets\\player\\player.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\player\\player.cs",
+              "RelativeToolTip": "Assets\\player\\player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T18:12:25.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TorusOBG.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\PrefabsObgLVL\\Obstacle\\TorusOBG.cs",
+              "RelativeDocumentMoniker": "Assets\\PrefabsObgLVL\\Obstacle\\TorusOBG.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\PrefabsObgLVL\\Obstacle\\TorusOBG.cs",
+              "RelativeToolTip": "Assets\\PrefabsObgLVL\\Obstacle\\TorusOBG.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowB8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T22:16:07.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SpawnLongObstacle.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\PrefabsObgLVL\\Obstacle\\Spawners\\SpawnLongObstacle.cs",
+              "RelativeDocumentMoniker": "Assets\\PrefabsObgLVL\\Obstacle\\Spawners\\SpawnLongObstacle.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\PrefabsObgLVL\\Obstacle\\Spawners\\SpawnLongObstacle.cs",
+              "RelativeToolTip": "Assets\\PrefabsObgLVL\\Obstacle\\Spawners\\SpawnLongObstacle.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T16:21:40.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "interpolation_animation_obstacle.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\PrefabsObgLVL\\interpolation_animation_obstacle.cs",
+              "RelativeDocumentMoniker": "Assets\\PrefabsObgLVL\\interpolation_animation_obstacle.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\PrefabsObgLVL\\interpolation_animation_obstacle.cs",
+              "RelativeToolTip": "Assets\\PrefabsObgLVL\\interpolation_animation_obstacle.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T18:26:19.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AwakeSCR.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\AwakeSCR.cs",
+              "RelativeDocumentMoniker": "Assets\\AwakeSCR.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\AwakeSCR.cs",
+              "RelativeToolTip": "Assets\\AwakeSCR.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T10:22:50.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LVL_Tools.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\LVLScripts\\LVL_Tools.cs",
+              "RelativeDocumentMoniker": "Assets\\LVLScripts\\LVL_Tools.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\LVLScripts\\LVL_Tools.cs",
+              "RelativeToolTip": "Assets\\LVLScripts\\LVL_Tools.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T05:26:42.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SpawnShild.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\PrefabsObgLVL\\Bonuses\\Spawners\\SpawnShild.cs",
+              "RelativeDocumentMoniker": "Assets\\PrefabsObgLVL\\Bonuses\\Spawners\\SpawnShild.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\PrefabsObgLVL\\Bonuses\\Spawners\\SpawnShild.cs",
+              "RelativeToolTip": "Assets\\PrefabsObgLVL\\Bonuses\\Spawners\\SpawnShild.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T16:34:14.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EndGame_Controller.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\UI\\EndGame_Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\UI\\EndGame_Controller.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\UI\\EndGame_Controller.cs",
+              "RelativeToolTip": "Assets\\UI\\EndGame_Controller.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T04:18:49.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SaveManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\SaveData\\SaveManager.cs",
+              "RelativeDocumentMoniker": "Assets\\SaveData\\SaveManager.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\SaveData\\SaveManager.cs",
+              "RelativeToolTip": "Assets\\SaveData\\SaveManager.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T01:52:52.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WindouProgresEndGame.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\UI\\WindouProgresEndGame.cs",
+              "RelativeDocumentMoniker": "Assets\\UI\\WindouProgresEndGame.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\UI\\WindouProgresEndGame.cs",
+              "RelativeToolTip": "Assets\\UI\\WindouProgresEndGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T02:47:39.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SpawnShooting.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\PrefabsObgLVL\\Bonuses\\Spawners\\SpawnShooting.cs",
+              "RelativeDocumentMoniker": "Assets\\PrefabsObgLVL\\Bonuses\\Spawners\\SpawnShooting.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\PrefabsObgLVL\\Bonuses\\Spawners\\SpawnShooting.cs",
+              "RelativeToolTip": "Assets\\PrefabsObgLVL\\Bonuses\\Spawners\\SpawnShooting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T03:07:27.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CanvasElement.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\UI\\CanvasesController\\CanvasElement.cs",
+              "RelativeDocumentMoniker": "Assets\\UI\\CanvasesController\\CanvasElement.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\UI\\CanvasesController\\CanvasElement.cs",
+              "RelativeToolTip": "Assets\\UI\\CanvasesController\\CanvasElement.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwFEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T03:37:29.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Dead_scr.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\player\\Dead_scr.cs",
+              "RelativeDocumentMoniker": "Assets\\player\\Dead_scr.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\player\\Dead_scr.cs",
+              "RelativeToolTip": "Assets\\player\\Dead_scr.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAqwIoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T18:13:08.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LVL_Controler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\LVLScripts\\LVL_Controler.cs",
+              "RelativeDocumentMoniker": "Assets\\LVLScripts\\LVL_Controler.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\LVLScripts\\LVL_Controler.cs",
+              "RelativeToolTip": "Assets\\LVLScripts\\LVL_Controler.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T01:19:18.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Record Text.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\UI\\Record Text.cs",
+              "RelativeDocumentMoniker": "Assets\\UI\\Record Text.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\UI\\Record Text.cs",
+              "RelativeToolTip": "Assets\\UI\\Record Text.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T22:47:24.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "SpeedObg.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\PrefabsObgLVL\\Bonuses\\SpeedObg.cs",
+              "RelativeDocumentMoniker": "Assets\\PrefabsObgLVL\\Bonuses\\SpeedObg.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\PrefabsObgLVL\\Bonuses\\SpeedObg.cs",
+              "RelativeToolTip": "Assets\\PrefabsObgLVL\\Bonuses\\SpeedObg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T01:31:59.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PlayerData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\player\\PlayerData.cs",
+              "RelativeDocumentMoniker": "Assets\\player\\PlayerData.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\player\\PlayerData.cs",
+              "RelativeToolTip": "Assets\\player\\PlayerData.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAgwFYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T18:12:36.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ShildObg.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\PrefabsObgLVL\\Bonuses\\ShildObg.cs",
+              "RelativeDocumentMoniker": "Assets\\PrefabsObgLVL\\Bonuses\\ShildObg.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\PrefabsObgLVL\\Bonuses\\ShildObg.cs",
+              "RelativeToolTip": "Assets\\PrefabsObgLVL\\Bonuses\\ShildObg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T18:10:20.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\player\\Shooting\\Projectile.cs",
+              "RelativeDocumentMoniker": "Assets\\player\\Shooting\\Projectile.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\player\\Shooting\\Projectile.cs",
+              "RelativeToolTip": "Assets\\player\\Shooting\\Projectile.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T03:44:48.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "DecelerationObg.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Zvezdoletik\\Assets\\PrefabsObgLVL\\Bonuses\\DecelerationObg.cs",
+              "RelativeDocumentMoniker": "Assets\\PrefabsObgLVL\\Bonuses\\DecelerationObg.cs",
+              "ToolTip": "C:\\Users\\user\\Zvezdoletik\\Assets\\PrefabsObgLVL\\Bonuses\\DecelerationObg.cs",
+              "RelativeToolTip": "Assets\\PrefabsObgLVL\\Bonuses\\DecelerationObg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T02:22:37.496Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

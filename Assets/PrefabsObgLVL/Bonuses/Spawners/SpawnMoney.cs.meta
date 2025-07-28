@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 36fa81bff895df741975861cbd850597
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ObstacleObg: {fileID: 1127354440168140062, guid: 36ee71d0539b5374fa5c228e55ab6f0b, type: 3}
+  - Crystal: {fileID: 1127354440168140062, guid: f59e6b24c5dd03c4d9985f512038ec5a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

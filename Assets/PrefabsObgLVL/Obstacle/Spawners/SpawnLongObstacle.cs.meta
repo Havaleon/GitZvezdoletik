@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 0db331b181a5fed4196b81f3f2a96f84
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ObstacleObg: {fileID: 989747817772685771, guid: 81ada44aa120ab94bbb42581a394ec00, type: 3}
+  - LongObstacle_3: {fileID: 989747817772685771, guid: a45b7b7a5ddf02940b3b01875a43a12a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

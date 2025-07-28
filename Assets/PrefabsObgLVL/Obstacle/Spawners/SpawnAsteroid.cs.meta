@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d342c57cfa2bd734190949d306ccc2d1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ObstacleObg: {fileID: 989747817772685771, guid: edd9a1a24760d4442a3a561e2e7ca16f, type: 3}
+  - asteroid_Edge: {fileID: 989747817772685771, guid: b19908eddd143cc46a329fefc74b49ed, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
