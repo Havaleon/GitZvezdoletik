@@ -62,6 +62,8 @@ public class interpolation_animation : MonoBehaviour
     [Space]
     [SerializeField]
     private interpolation_animation_vector TypeVectorAnimaton;
+    [SerializeField]
+    private bool Unclamped;
     [Space]
     public Vector3 VectorStart;
     public Vector3 VectorEnd;
@@ -107,7 +109,15 @@ public class interpolation_animation : MonoBehaviour
                 break;
         }
 
-        Vector3 vector = Vector3.LerpUnclamped(VectorEnd, VectorStart, t);
+        Vector3 vector = Vector3.zero;
+        if (Unclamped)
+        {
+            vector = Vector3.LerpUnclamped(VectorEnd, VectorStart, t);
+        }
+        else
+        {
+            vector = Vector3.Lerp(VectorEnd, VectorStart, t);
+        }
 
         switch (TypeVectorAnimaton)
         {

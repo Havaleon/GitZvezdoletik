@@ -702,6 +702,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: torus1
       objectReference: {fileID: 0}
+    - target: {fileID: 989747817772685771, guid: 2341bb1b0f7249a4ca8e83bb25869ebc, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1384497485772367094, guid: 2341bb1b0f7249a4ca8e83bb25869ebc, type: 3}
       propertyPath: m_Enabled
       value: 1

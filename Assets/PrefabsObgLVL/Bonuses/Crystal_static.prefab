@@ -242,6 +242,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fa6d166cfcd0563418ddb866761367e5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Duration: 10
+  ParentObg: {fileID: 1127354440168140062}
+  IndicatorTimeUI: {fileID: 0}
+  BonusType: 0
   moneyType: 1
   MoneyParent: {fileID: 1127354440168140062}
 --- !u!1 &5440879156748179965 stripped

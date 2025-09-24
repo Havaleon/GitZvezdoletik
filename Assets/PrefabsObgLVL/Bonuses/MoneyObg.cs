@@ -6,7 +6,7 @@ public enum MoneyType
     Crystal = 1
 }
 
-public class MoneyObg : MonoBehaviour
+public class MoneyObg : BonusObg
 {
     [SerializeField]
     private MoneyType moneyType;
@@ -15,8 +15,10 @@ public class MoneyObg : MonoBehaviour
     [SerializeField]
     private GameObject MoneyParent;
 
-    private void OnTriggerEnter(Collider other)
+    public override void OnTriggerEnter(Collider other)
     {
+        base.OnTriggerEnter(other);
+
         if (other.tag == "Player")
         {
             switch (moneyType)
@@ -30,11 +32,6 @@ public class MoneyObg : MonoBehaviour
                     break;
 
             }
-
-
-
-            MoneyParent.SetActive(false);
-
         }
     }
 }

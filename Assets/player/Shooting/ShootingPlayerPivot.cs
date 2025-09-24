@@ -15,7 +15,7 @@ public class ShootingPlayerPivot : MonoBehaviour
         {
             GameObject g = LVL_Tools.Get_Pool(Projectile);
             g.transform.position = transform.position;
-            g.GetComponent<Projectile>().Speed = Speed + player.inst.EndSpeed.z;
+            g.GetComponent<Projectile>().Speed = Speed + player.instance.EndSpeed.z;
 
             TimeShoot = Time.time + delay;
         }

@@ -16,7 +16,7 @@ public class Projectile : MonoBehaviour
     {
         transform.position += transform.forward * Speed * Time.deltaTime;
 
-        if(transform.position.z > player.inst.Pos.z + 30)
+        if(transform.position.z > player.instance.Pos.z + 30)
         {
             gameObject.SetActive(false);
         }
@@ -25,7 +25,7 @@ public class Projectile : MonoBehaviour
     private void OnTriggerEnter(Collider other)
     {
         entyti entyti = other.GetComponent<entyti>();
-        Debug.Log(entyti);
+        //Debug.Log(entyti);
         
         if(entyti != null)
         {

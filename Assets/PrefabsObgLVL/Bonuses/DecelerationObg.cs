@@ -5,13 +5,14 @@ using UnityEngine;
 public class DecelerationObg : BonusObg
 {
     private float ÌultiplySpeed = -0.25f;
-    private void OnTriggerEnter(Collider other)
+    public override void OnTriggerEnter(Collider other)
     {
+        base.OnTriggerEnter(other);
+
         if (other.tag == "Player")
         {
-            player.inst.OnDecelerationBonus(ÌultiplySpeed, Duration);
+            player.instance.OnDecelerationBonus(ÌultiplySpeed, Duration);
             AddIndicator(Duration);
-            ParentObg.SetActive(false);
         }
     }
 }

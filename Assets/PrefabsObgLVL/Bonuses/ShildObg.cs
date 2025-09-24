@@ -4,8 +4,10 @@ public class ShildObg : BonusObg
 {
     private int AddNumLives = 1;
 
-    private void OnTriggerEnter(Collider other)
+    public override void OnTriggerEnter(Collider other)
     {
+        base.OnTriggerEnter(other);
+
         if (other.tag == "Player")
         {
             //Dead_scr.Instance.AddExtraLives(1);
@@ -13,8 +15,6 @@ public class ShildObg : BonusObg
             Dead_scr.Instance.SetBonusExtraLives(AddNumLives, Duration);
 
             AddIndicator(Duration);
-
-            ParentObg.SetActive(false);
         }
     }
 }

@@ -144,5 +144,4 @@ public class Dead_scr : MonoBehaviour
             immortal = false;
         }
     }
-
 }

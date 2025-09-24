@@ -27,7 +27,7 @@ public class SaveManager : Save_Tools
         PlayerData.instance.AddMoney(100000000);
 
         PlayerData.instance.Crystal = PlayerPrefs.GetInt(KeyCrystal);
-        PlayerData.instance.AddCrystal(0);
+        PlayerData.instance.AddCrystal(1000000);
 
         PlayerData.instance.RecordScorr = PlayerPrefs.GetInt(KeyRecordScorr);
         PlayerData.instance.ScorrUpdate();

@@ -4,12 +4,12 @@ using UnityEngine;
 
 public class player : MonoBehaviour
 {
-    public static player inst;
+    public static player instance;
     [HideInInspector]
     public Vector3 Pos;
     private void Awake()
     {
-        inst = this;
+        instance = this;
     }
 
 
@@ -72,7 +72,6 @@ public class player : MonoBehaviour
         {
             Move_x = false;
         }
-
         if (Move_x == false)
         {
             if (Speed_x_value > 0f)
@@ -87,7 +86,7 @@ public class player : MonoBehaviour
 
         Speed.x = Speed_Max.x * Speed_x_value;
 
-
+        
         float value_x = Speed_x_value;
         if (value_x < 0f)
         {
@@ -97,12 +96,9 @@ public class player : MonoBehaviour
 
         ApplySpeed();
 
-
         PlayerData.instance.ScorrUpdate();
         CameraController.instance.CameraMove(Speed_x_value);
     }
-
-
     private Dictionary<string, SpeedCoef> CoeffsSpeed = new Dictionary<string, SpeedCoef>()
     {
         // Boost, Time

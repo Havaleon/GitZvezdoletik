@@ -48,6 +48,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 7ded73655aa973242b075ac6d7873d11, type: 2}
+    - target: {fileID: 3092076214447533971, guid: 5472ae61e0cc9fe4b8ea41fb2d3a8046, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3108139692648178695, guid: 5472ae61e0cc9fe4b8ea41fb2d3a8046, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -142,7 +146,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Duration: 10
   ParentObg: {fileID: 8630341180820682975}
-  Indicator: {fileID: 3949579481149495160, guid: db1d9ee3d2fbac64aaa47ceb49d97c09, type: 3}
+  IndicatorTimeUI: {fileID: 3949579481149495160, guid: db1d9ee3d2fbac64aaa47ceb49d97c09, type: 3}
   BonusType: 1
 --- !u!4 &7361832432014774274 stripped
 Transform:

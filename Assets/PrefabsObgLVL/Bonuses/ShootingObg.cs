@@ -4,13 +4,16 @@ using UnityEngine;
 
 public class ShootingObg : BonusObg
 {
-    private void OnTriggerEnter(Collider other)
+    public override void OnTriggerEnter(Collider other)
     {
+        base.OnTriggerEnter(other);
+
+        //OnTriggerEnter(other);
+
         if (other.tag == "Player")
         {
-            player.inst.OnShooting(Duration);
+            player.instance.OnShooting(Duration);
             AddIndicator(Duration);
-            ParentObg.SetActive(false);
         }
     }
 }

@@ -14,7 +14,7 @@ public class Destroier : MonoBehaviour
 
     private void Update()
     {
-        if (transform.position.z < player.inst.Pos.z - 5f)
+        if (transform.position.z < player.instance.Pos.z - 5f)
         {
             Parent.SetActive(false);
         }

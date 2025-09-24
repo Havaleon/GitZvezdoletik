@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 2930885211770719882}
   - component: {fileID: 2978430325827425288}
   - component: {fileID: 600787534722031097}
+  - component: {fileID: 3092076214447533971}
   - component: {fileID: 1872332255450407276}
   m_Layer: 0
   m_Name: ObstacleForm
@@ -48,8 +49,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ce066f7669581984594d313db4ea4bf1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  interpolation_Animation_pos: {fileID: 2978430325827425288}
-  interpolation_Animation_Rot: {fileID: 600787534722031097}
+  interpolationAnimationPos: {fileID: 2978430325827425288}
+  interpolationAnimationRot: {fileID: 600787534722031097}
+  interpolationAnimationScale: {fileID: 3092076214447533971}
   AnimationCurve:
     serializedVersion: 2
     m_Curve:
@@ -92,6 +94,7 @@ MonoBehaviour:
   DistanceMin: 0.5
   DistanceMax: 20
   TypeVectorAnimaton: 0
+  Unclamped: 1
   VectorStart: {x: 0, y: 0, z: 0}
   VectorEnd: {x: 0, y: 0, z: 0}
   InterpolationAnimated: 0
@@ -137,6 +140,7 @@ MonoBehaviour:
   DistanceMin: 0.5
   DistanceMax: 20
   TypeVectorAnimaton: 1
+  Unclamped: 1
   VectorStart: {x: 0, y: 0, z: 0}
   VectorEnd: {x: 0, y: 0, z: 0}
   InterpolationAnimated: 0
@@ -158,6 +162,52 @@ MonoBehaviour:
       inSlope: 1
       outSlope: 1
       tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!114 &3092076214447533971
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 989747817772685771}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 612d5838e16b06f4f9ad5e36e03054c6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TypeAnimation: 2
+  TransformAnimation: {fileID: 5431407969960379801}
+  TransformPoint: {fileID: 0}
+  DistanceMin: 0
+  DistanceMax: 20
+  TypeVectorAnimaton: 1
+  Unclamped: 0
+  VectorStart: {x: 1, y: 1, z: 1}
+  VectorEnd: {x: 0.6, y: 0.6, z: 0.6}
+  InterpolationAnimated: 1
+  AnimationCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
       weightedMode: 0
       inWeight: 0
       outWeight: 0

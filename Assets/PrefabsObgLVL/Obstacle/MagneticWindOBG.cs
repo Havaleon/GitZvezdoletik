@@ -14,6 +14,7 @@ public class MagneticWindOBG : MonoBehaviour
         if (other.tag == "Player")
         {
             OnSpeed = true;
+            CameraController.instance.ShakeEnable();
         }
     }
     private void OnTriggerExit(Collider other)
@@ -21,6 +22,7 @@ public class MagneticWindOBG : MonoBehaviour
         if (other.tag == "Player")
         {
             OnSpeed = false;
+            CameraController.instance.ShakeDisable();
         }
     }
 
@@ -30,9 +32,9 @@ public class MagneticWindOBG : MonoBehaviour
     {
         if (OnSpeed)
         {
-            float speed = player.inst.Speed_Max.x * 0.1f;
+            float speed = player.instance.Speed_Max.x * 0.1f;
 
-            player.inst.transform.position += transform.forward * speed * Time.deltaTime;
+            player.instance.transform.position += transform.forward * speed * Time.deltaTime;
         }   
     }
 }

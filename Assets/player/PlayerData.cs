@@ -37,7 +37,7 @@ public class PlayerData : MonoBehaviour
     }
     private void AddMoneyRun(int plus)
     {
-        if (player.inst.enabled == true)
+        if (player.instance.enabled == true)
         {
             MoneyRun += plus;
 
@@ -65,7 +65,7 @@ public class PlayerData : MonoBehaviour
     public event Action<string> SetTextRecord;
     public void ScorrUpdate()
     {
-        ScorrRun = (int)player.inst.transform.position.z + 10;
+        ScorrRun = (int)player.instance.transform.position.z + 10;
 
         TextScorr.SetText(ScorrRun.ToString());
 
